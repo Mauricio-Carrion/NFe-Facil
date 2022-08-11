@@ -154,4 +154,9 @@
   }
 }
 
+.backToTop {
+  display: none;
+  margin-right: -45px;
+}
+
 /*# sourceMappingURL=style.css.map */
